@@ -1,0 +1,19 @@
+{
+  "name": "serverless-http-request-logger-example",
+  "version": "0.0.1",
+  "description": "",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neverendingqs/serverless-http-request-logger-example.git"
+  },
+  "author": "neverendingqs",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/neverendingqs/serverless-http-request-logger-example/issues"
+  },
+  "homepage": "https://github.com/neverendingqs/serverless-http-request-logger-example#readme"
+}
