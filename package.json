@@ -4,6 +4,7 @@
   "description": "",
   "main": " ",
   "scripts": {
+    "sls": "sls",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/neverendingqs/serverless-http-request-logger-example/issues"
   },
-  "homepage": "https://github.com/neverendingqs/serverless-http-request-logger-example#readme"
+  "homepage": "https://github.com/neverendingqs/serverless-http-request-logger-example#readme",
+  "devDependencies": {
+    "serverless": "^3.22.0"
+  }
 }
